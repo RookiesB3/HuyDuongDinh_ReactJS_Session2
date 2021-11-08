@@ -1,0 +1,6 @@
+.top-nav {
+    display: flex;
+}
+.top-nav--link {
+    margin: 15px;
+}
